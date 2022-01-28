@@ -6,9 +6,16 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "@tinkoff/utils": "^2.2.1",
+    "just-flatten-it": "^5.0.1",
+    "just-last": "^3.0.1",
+    "just-merge": "^3.0.1",
+    "ramda": "^0.28.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
+    "remeda": "^0.0.32",
+    "source-map-explorer": "^2.5.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
